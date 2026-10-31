@@ -1,0 +1,8 @@
+{
+  "name": "Remix もじつりアイランド - ひらがな・カタカナ釣りゲーム",
+  "description": "文字カードと魚を組み合わせて楽しく学べる、ひらがな・カタカナ釣り学習アプリ",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
